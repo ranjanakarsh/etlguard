@@ -52,7 +52,7 @@ ETLGuard is a modular, fault-tolerant ETL monitoring and self-healing system wri
 
 1. **Generate Sample Logs:**
    ```bash
-   cd etlguard/test_data
+   cd test_data
    ./mock_jobs.sh
    cd ..
    ```
@@ -61,8 +61,8 @@ ETLGuard is a modular, fault-tolerant ETL monitoring and self-healing system wri
    ./etlguard.sh
    ```
 3. **Check Results:**
-   - Logs: `etlguard/logs/etlguard.log`
-   - Daily summary: `etlguard/reports/summary_YYYYMMDD.txt`
+   - Logs: `logs/etlguard.log`
+   - Daily summary: `reports/summary_YYYYMMDD.txt`
 
 ---
 
