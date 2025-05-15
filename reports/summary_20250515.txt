@@ -1,0 +1,13 @@
+ETLGuard Daily Summary - 2025-05-15
+=====================================
+Successes: 2
+Failures: 3
+
+Failed Jobs:
+job2|FAILURE|2025-05-15 16:42:08
+job4|FAILURE|2025-05-15 16:42:08
+job5|FAILURE|2025-05-15 16:42:08
+
+Successful Jobs:
+job1|SUCCESS|2025-05-15 16:42:08
+job3|SUCCESS|2025-05-15 16:42:08

@@ -1,0 +1,182 @@
+2025-05-15 16:32:13 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:32:13 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:32:13 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:32:13 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:32:13 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:32:13 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:35:12 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:35:12 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:35:12 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:35:12 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:35:12 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:35:12 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:36:23 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:36:23 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:36:23 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:36:23 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:36:23 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:36:23 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:36:39 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:36:39 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:36:39 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:36:39 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:36:39 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:36:39 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:36:42 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:36:42 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:36:42 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:36:42 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:36:42 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:36:42 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:36:48 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:36:48 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:36:48 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:36:48 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:36:48 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:36:48 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:38:34 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:38:35 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:38:35 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:38:35 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:38:35 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:38:35 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:39:28 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:39:28 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:39:28 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:39:28 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:39:28 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:39:28 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:39:46 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:39:46 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:39:46 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:39:46 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:39:46 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:39:46 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:40:16 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:40:16 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:40:16 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:40:16 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:40:16 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:40:16 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:40:16 [WARN] Job Sample ETL Job 2 failed. Parsing logs.
+2025-05-15 16:40:16 [WARN] Failure reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified
+2025-05-15 16:40:16 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+2025-05-15 16:40:16 [INFO] Healing result: 2025-05-15 16:40:16 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED
+2025-05-15 16:40:16 [WARN] ALERT: Job Sample ETL Job 2 (job2) failed. Reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified | Heal: 2025-05-15 16:40:16 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED | Validation: 
+2025-05-15 16:40:16 [INFO] Checking job: Complicated Recoverable (job3)
+2025-05-15 16:40:16 [INFO] Job Complicated Recoverable succeeded.
+2025-05-15 16:40:16 [INFO] Validation query for Complicated Recoverable passed (simulated).
+2025-05-15 16:40:16 [INFO] Validation passed for Complicated Recoverable.
+2025-05-15 16:40:16 [INFO] Checking job: Unrecoverable Error (job4)
+2025-05-15 16:40:16 [WARN] Job Unrecoverable Error did not succeed.
+2025-05-15 16:40:16 [WARN] Job Unrecoverable Error failed. Parsing logs.
+2025-05-15 16:40:16 [WARN] Failure reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist
+2025-05-15 16:40:16 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+2025-05-15 16:40:16 [INFO] Healing result: 2025-05-15 16:40:16 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED
+2025-05-15 16:40:16 [WARN] ALERT: Job Unrecoverable Error (job4) failed. Reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist | Heal: 2025-05-15 16:40:16 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED | Validation: 
+2025-05-15 16:40:16 [INFO] Checking job: Validation Fails (job5)
+2025-05-15 16:40:16 [INFO] Job Validation Fails succeeded.
+2025-05-15 16:40:16 [WARN] Validation query for Validation Fails failed (simulated).
+2025-05-15 16:40:16 [ERROR] Validation failed for Validation Fails: FAILURE
+2025-05-15 16:40:16 [WARN] ALERT: Job Validation Fails (job5) failed. Reason:  | Heal:  | Validation: FAILURE
+2025-05-15 16:40:16 [INFO] ETLGuard run complete. Summary: /Users/ranjanakarsh/Desktop/Cursor/Github/ETL/etlguard/reports/summary_20250515.txt
+2025-05-15 16:40:22 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:40:22 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:40:22 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:40:22 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:40:22 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:40:22 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:40:22 [WARN] Job Sample ETL Job 2 failed. Parsing logs.
+2025-05-15 16:40:22 [WARN] Failure reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified
+2025-05-15 16:40:22 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+2025-05-15 16:40:22 [INFO] Healing result: 2025-05-15 16:40:22 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED
+2025-05-15 16:40:22 [WARN] ALERT: Job Sample ETL Job 2 (job2) failed. Reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified | Heal: 2025-05-15 16:40:22 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED | Validation: 
+2025-05-15 16:40:22 [INFO] Checking job: Complicated Recoverable (job3)
+2025-05-15 16:40:22 [INFO] Job Complicated Recoverable succeeded.
+2025-05-15 16:40:22 [INFO] Validation query for Complicated Recoverable passed (simulated).
+2025-05-15 16:40:22 [INFO] Validation passed for Complicated Recoverable.
+2025-05-15 16:40:22 [INFO] Checking job: Unrecoverable Error (job4)
+2025-05-15 16:40:22 [WARN] Job Unrecoverable Error did not succeed.
+2025-05-15 16:40:22 [WARN] Job Unrecoverable Error failed. Parsing logs.
+2025-05-15 16:40:22 [WARN] Failure reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist
+2025-05-15 16:40:22 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+2025-05-15 16:40:22 [INFO] Healing result: 2025-05-15 16:40:22 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED
+2025-05-15 16:40:22 [WARN] ALERT: Job Unrecoverable Error (job4) failed. Reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist | Heal: 2025-05-15 16:40:22 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED | Validation: 
+2025-05-15 16:40:22 [INFO] Checking job: Validation Fails (job5)
+2025-05-15 16:40:22 [INFO] Job Validation Fails succeeded.
+2025-05-15 16:40:22 [WARN] Validation query for Validation Fails failed (simulated).
+2025-05-15 16:40:22 [ERROR] Validation failed for Validation Fails: FAILURE
+2025-05-15 16:40:22 [WARN] ALERT: Job Validation Fails (job5) failed. Reason:  | Heal:  | Validation: FAILURE
+2025-05-15 16:40:22 [INFO] ETLGuard run complete. Summary: /Users/ranjanakarsh/Desktop/Cursor/Github/ETL/etlguard/reports/summary_20250515.txt
+2025-05-15 16:41:29 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:41:29 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:41:29 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:41:29 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:41:29 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:41:29 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:41:29 [WARN] Job Sample ETL Job 2 failed. Parsing logs.
+2025-05-15 16:41:29 [WARN] Failure reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified
+2025-05-15 16:41:29 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+2025-05-15 16:41:29 [INFO] Healing result: 2025-05-15 16:41:29 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED
+2025-05-15 16:41:29 [WARN] ALERT: Job Sample ETL Job 2 (job2) failed. Reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified | Heal: 2025-05-15 16:41:29 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED | Validation: 
+2025-05-15 16:41:29 [INFO] Checking job: Complicated Recoverable (job3)
+2025-05-15 16:41:29 [INFO] Job Complicated Recoverable succeeded.
+2025-05-15 16:41:29 [INFO] Validation query for Complicated Recoverable passed (simulated).
+2025-05-15 16:41:29 [INFO] Validation passed for Complicated Recoverable.
+2025-05-15 16:41:29 [INFO] Checking job: Unrecoverable Error (job4)
+2025-05-15 16:41:29 [WARN] Job Unrecoverable Error did not succeed.
+2025-05-15 16:41:29 [WARN] Job Unrecoverable Error failed. Parsing logs.
+2025-05-15 16:41:29 [WARN] Failure reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist
+2025-05-15 16:41:29 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+2025-05-15 16:41:29 [INFO] Healing result: 2025-05-15 16:41:29 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED
+2025-05-15 16:41:29 [WARN] ALERT: Job Unrecoverable Error (job4) failed. Reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist | Heal: 2025-05-15 16:41:29 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED | Validation: 
+2025-05-15 16:41:29 [INFO] Checking job: Validation Fails (job5)
+2025-05-15 16:41:29 [INFO] Job Validation Fails succeeded.
+2025-05-15 16:41:29 [WARN] Validation query for Validation Fails failed (simulated).
+2025-05-15 16:41:29 [ERROR] Validation failed for Validation Fails: FAILURE
+2025-05-15 16:41:29 [WARN] ALERT: Job Validation Fails (job5) failed. Reason:  | Heal:  | Validation: FAILURE
+2025-05-15 16:41:29 [INFO] ETLGuard run complete. Summary: /Users/ranjanakarsh/Desktop/Cursor/Github/ETL/etlguard/reports/summary_20250515.txt
+2025-05-15 16:42:08 [INFO] Checking job: Sample ETL Job 1 (job1)
+2025-05-15 16:42:08 [INFO] Job Sample ETL Job 1 succeeded.
+2025-05-15 16:42:08 [INFO] Validation query for Sample ETL Job 1 passed (simulated).
+2025-05-15 16:42:08 [INFO] Validation passed for Sample ETL Job 1.
+2025-05-15 16:42:08 [INFO] Checking job: Sample ETL Job 2 (job2)
+2025-05-15 16:42:08 [WARN] Job Sample ETL Job 2 did not succeed.
+2025-05-15 16:42:08 [WARN] Job Sample ETL Job 2 failed. Parsing logs.
+2025-05-15 16:42:08 [WARN] Failure reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified
+2025-05-15 16:42:08 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+2025-05-15 16:42:08 [INFO] Healing result: 2025-05-15 16:42:08 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED
+2025-05-15 16:42:08 [WARN] ALERT: Job Sample ETL Job 2 (job2) failed. Reason: 2025-05-15 16:35:06 ORA-00054: resource busy and acquire with NOWAIT specified | Heal: 2025-05-15 16:42:08 [INFO] Clearing locks for Sample ETL Job 2 (simulated).
+LOCKS_CLEARED | Validation: 
+2025-05-15 16:42:08 [INFO] Checking job: Complicated Recoverable (job3)
+2025-05-15 16:42:08 [INFO] Job Complicated Recoverable succeeded.
+2025-05-15 16:42:08 [INFO] Validation query for Complicated Recoverable passed (simulated).
+2025-05-15 16:42:08 [INFO] Validation passed for Complicated Recoverable.
+2025-05-15 16:42:08 [INFO] Checking job: Unrecoverable Error (job4)
+2025-05-15 16:42:08 [WARN] Job Unrecoverable Error did not succeed.
+2025-05-15 16:42:08 [WARN] Job Unrecoverable Error failed. Parsing logs.
+2025-05-15 16:42:08 [WARN] Failure reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist
+2025-05-15 16:42:08 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+2025-05-15 16:42:08 [INFO] Healing result: 2025-05-15 16:42:08 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED
+2025-05-15 16:42:08 [WARN] ALERT: Job Unrecoverable Error (job4) failed. Reason: 2025-05-15 13:00:05 ORA-00942: table or view does not exist | Heal: 2025-05-15 16:42:08 [INFO] Re-establishing DB connection for Unrecoverable Error (simulated).
+DB_RECONNECTED | Validation: 
+2025-05-15 16:42:08 [INFO] Checking job: Validation Fails (job5)
+2025-05-15 16:42:08 [INFO] Job Validation Fails succeeded.
+2025-05-15 16:42:08 [WARN] Validation query for Validation Fails failed (simulated).
+2025-05-15 16:42:08 [ERROR] Validation failed for Validation Fails: FAILURE
+2025-05-15 16:42:08 [WARN] ALERT: Job Validation Fails (job5) failed. Reason:  | Heal:  | Validation: FAILURE
+2025-05-15 16:42:08 [INFO] ETLGuard run complete. Summary: /Users/ranjanakarsh/Desktop/Cursor/Github/ETL/etlguard/reports/summary_20250515.txt

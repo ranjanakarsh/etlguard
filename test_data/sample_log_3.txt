@@ -1,0 +1,5 @@
+2025-05-15 12:00:00 Starting job
+2025-05-15 12:00:05 ORA-00054: resource busy and acquire with NOWAIT specified
+2025-05-15 12:00:10 file not found: /data/input.csv
+2025-05-15 12:00:15 timeout waiting for DB connection
+2025-05-15 12:00:20 JOB SUCCESS

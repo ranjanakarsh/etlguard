@@ -1,0 +1,2 @@
+2025-05-15 13:00:00 Starting job
+2025-05-15 13:00:05 ORA-00942: table or view does not exist
