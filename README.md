@@ -1,3 +1,7 @@
+![Shell](https://img.shields.io/badge/Shell-Bash-1f425f)
+![CI/CD Ready](https://img.shields.io/badge/CI%2FCD-Ready-brightgreen)
+![ETL Monitoring](https://img.shields.io/badge/ETL-Monitoring-blue)
+
 # ETLGuard
 
 **Author: Ranjan Akarsh**
